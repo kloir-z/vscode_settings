@@ -1,0 +1,56 @@
+{
+    "editor.largeFileOptimizations": false,
+    "editor.mouseWheelZoom": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.enableMultiLinePasteWarning": "auto",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "vim.surround": true,
+    "vim.useSystemClipboard": true,
+    "vim.vimrc.enable": true,
+    "vim.vimrc.path": "c:/js/.vimrc",
+    "window.customTitleBarVisibility": "windowed",
+    "workbench.colorTheme": "One Monokai",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "vscode-neovim.neovimInitVimPaths.win32": "C:/Users/user/AppData/Local/nvim/init.lua",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "prettier.printWidth": 250,
+    "workbench.iconTheme": "material-icon-theme",
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "vscode-neovim.ctrlKeysForInsertMode": [
+        "a",
+        "c",
+        "d",
+        "h",
+        "j",
+        "m",
+        "o",
+        "r",
+        "t",
+        "u",
+        "w",
+        "k",
+        "l",
+    ],
+    "workbench.startupEditor": "none",
+    "[lua]": {
+        "editor.defaultFormatter": "Koihik.vscode-lua-format"
+    },
+    "vscode-neovim.compositeKeys": {
+        "jj": {
+            "command": "vscode-neovim.escape"
+        }
+    },
+    "editor.smoothScrolling": true
+}
