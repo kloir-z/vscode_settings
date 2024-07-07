@@ -19,7 +19,7 @@
     "extensions.experimental.affinity": {
         "asvetliakov.vscode-neovim": 1
     },
-    "vscode-neovim.neovimInitVimPaths.win32": "C:/Users/user/AppData/Local/nvim/init.lua",
+    "vscode-neovim.neovimInitVimPaths.win32": "C:/Users/kosuk/AppData/Local/nvim/init.lua",
     "[typescriptreact]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
